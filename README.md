@@ -1,6 +1,6 @@
 # Restaurant Demand Forecasting System
 
-> AI-powered forecasting tool helping a local bagel shop reduce waste by predicting daily demand
+> AI-powered forecasting tool helping a local bagel shop reduce waste by predicting daily bagel demand
 
 
 ## Problem Statement and Purpose
