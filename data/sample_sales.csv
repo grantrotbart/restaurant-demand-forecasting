@@ -1,0 +1,7 @@
+date,location,bagel_type,quantity_sold,quantity_made,revenue
+2024-12-01,biscayne,plain,45,50,157.50
+2024-12-01,biscayne,everything,62,70,217.00
+2024-12-01,biscayne,sesame,28,35,98.00
+2024-12-02,biscayne,plain,51,55,178.50
+2024-12-02,biscayne,everything,58,65,203.00
+2024-12-02,biscayne,sesame,31,35,108.50
